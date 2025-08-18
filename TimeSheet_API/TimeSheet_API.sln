@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSheet_API", "TimeSheet_API.csproj", "{45B5B253-BDEF-4BE1-8F4F-57DC276E4E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B5B253-BDEF-4BE1-8F4F-57DC276E4E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B5B253-BDEF-4BE1-8F4F-57DC276E4E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B5B253-BDEF-4BE1-8F4F-57DC276E4E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B5B253-BDEF-4BE1-8F4F-57DC276E4E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76640C1D-9BC5-4AF8-9F0D-38DAD82360C8}
+	EndGlobalSection
+EndGlobal
