@@ -1,7 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TimeSheet_Project\\Project\\TimeSheet_Backend\\TimeSheet_API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Timesheet1\\Timesheet_API\\TimeSheet_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D08051-F70D-428B-B768-963CD93F9077}|..\\Utility\\Utility.csproj|c:\\users\\admin\\desktop\\timesheet1\\timesheet_api\\utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901B6416-C9BC-4473-83A0-5C43FBAF4FCE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\timesheet1\\timesheet_api\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +16,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Timesheet1\\Timesheet_API\\Utility\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Utility\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Timesheet1\\Timesheet_API\\Utility\\Class1.cs",
+              "RelativeToolTip": "..\\Utility\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:29:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Timesheet1\\Timesheet_API\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Timesheet1\\Timesheet_API\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:29:08.251Z",
+              "EditorCaption": ""
             }
           ]
         }
